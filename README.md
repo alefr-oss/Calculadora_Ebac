@@ -18,7 +18,7 @@ Para rodar a calculadora no seu ambiente local (Linux, macOS ou Git Bash no Wind
 
 ## Executar o script
     ./calculadora.sh
-    O script solicitará os números e a operação desejada diretamente no terminal.
+    # O script solicitará os números e a operação desejada diretamente no terminal.
 
 # Lógica do Projeto
   > O código foi estruturado para realizar operações matemáticas básicas via linha de comando.
