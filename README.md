@@ -3,7 +3,7 @@
 Este repositório contém o meu primeiro projeto prático, desenvolvido para exercitar a integração entre scripts de automação e lógica de programação.
 
 ## Descrição do Projeto
-O objetivo deste projeto é fornecer uma calculadora funcional diretamente pelo terminal. O script gerencia a interação com o usuário, processa os dados inseridos e retorna o resultado da operação matemática escolhida.
+O objetivo deste projeto é fornecer uma calculadora funcional diretamente pelo terminal. O script processa os dados inseridos e retorna o resultado da operação matemática escolhida.
 
 ---
 
